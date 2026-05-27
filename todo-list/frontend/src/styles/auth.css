@@ -1,0 +1,6 @@
+.auth-container { display:flex; align-items:center; justify-content:center; min-height:70vh; }
+.auth-card { background:#fff; padding:20px; border-radius:8px; width:360px; box-shadow: 0 2px 12px rgba(2,6,23,0.06); }
+.form-group { margin-bottom:12px; }
+.form-group input, .form-group textarea, select { width:100%; padding:8px; border:1px solid #e5e7eb; border-radius:6px; }
+.toggle-auth { margin-top:12px; }
+.error-message { margin-bottom:12px; }

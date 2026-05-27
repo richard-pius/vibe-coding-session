@@ -1,0 +1,11 @@
+.tasks-container { padding: 20px; }
+.tasks-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; }
+.task-form { background:#fff; padding:12px; border-radius:8px; box-shadow: 0 1px 4px rgba(2,6,23,0.06); margin-bottom:12px; }
+.task-card { background:#fff; padding:12px; border-radius:8px; margin-bottom:10px; box-shadow: 0 1px 4px rgba(2,6,23,0.04); }
+.task-header { display:flex; justify-content:space-between; align-items:center; }
+.status-badge { padding:4px 8px; border-radius:6px; font-size:12px; }
+.status-badge.pending { background:#f3f4f6; }
+.task-meta { display:flex; gap:12px; font-size:13px; color:#374151; margin-top:8px; }
+.task-actions { margin-top:10px; display:flex; gap:8px; }
+.btn-small { padding:4px 8px; font-size:12px; }
+.no-data { color:#6b7280; }

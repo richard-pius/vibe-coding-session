@@ -1,0 +1,8 @@
+.transactions-container { padding: 20px; }
+.transactions-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; }
+.transaction-form { background:#fff; padding:12px; border-radius:8px; box-shadow: 0 1px 4px rgba(2,6,23,0.06); margin-bottom:12px; }
+.transactions-table table { width:100%; border-collapse: collapse; background:#fff; border-radius:8px; overflow:hidden; box-shadow: 0 1px 4px rgba(2,6,23,0.06); }
+.transactions-table th, .transactions-table td { padding:10px 12px; border-bottom:1px solid #f3f4f6; }
+.type-income .amount { color: #10b981; }
+.type-expense .amount { color: #ef4444; }
+.no-data { color:#6b7280; text-align:center; }
